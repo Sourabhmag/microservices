@@ -1,0 +1,5 @@
+package com.currencyexchange.dto;
+
+public class Exchange {
+
+}

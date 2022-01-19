@@ -1,0 +1,5 @@
+package com.currencyexchange.controller;
+
+public class ExchangeController {
+
+}

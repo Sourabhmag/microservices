@@ -1,0 +1,5 @@
+package com.currencyconversion.dto;
+
+public class ExchangeValue {
+
+}

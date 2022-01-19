@@ -1,0 +1,8 @@
+package com.currencyexchange.dto;
+
+public class Exchange {
+	private String from;
+	private String to;
+	private int amount;
+	private int calculatedExchange;
+}
